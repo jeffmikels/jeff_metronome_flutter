@@ -16,6 +16,7 @@ dependencies:
   quiver: ">=2.0.0 <3.0.0"
   screen: ^0.0.5
   localstorage: ^3.0.0
+  soundpool: ^0.5.3
   
 
 dev_dependencies:
